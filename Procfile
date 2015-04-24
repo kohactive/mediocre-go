@@ -1,1 +1,1 @@
-web: mediocre-go
+web: bin/mediocre-go
